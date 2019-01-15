@@ -83,6 +83,7 @@ Notice that we've already given you the `#display_board` method, since we've alr
 
 #### `#input_to_index`
 
+
 Your `#input_to_index` method must take one argument, the user's input (should be a string that is "1" - "9").
 
 Regarding the player's input: if the user's input is `"5"`, the player wants to fill out position 5 with their character. This means that your method must fill out the correct array index with the player's character.
